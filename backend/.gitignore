@@ -1,0 +1,19 @@
+# Python-generated files
+.coverage
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+.idea/.gitignore
+.idea/habit-tracker-API.iml
+.idea/
+
+.pytest_cache/
+.ruff_cache/
